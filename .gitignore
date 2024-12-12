@@ -31,3 +31,10 @@ pai_jobs/easy_rec*.tar.gz
 # unit test
 /data
 /UNIT_TEST_CASE_LIST
+examples/ckpt/*
+examples/data/criteo/criteo_kaggle_display/*
+examples/data/movielens_1m/movies_test_data
+examples/data/movielens_1m/movies_train_data
+examples/data/movielens_1m/ml-1m/*
+logs/*
+examples/demo/mnist_model/*
